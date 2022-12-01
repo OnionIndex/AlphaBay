@@ -7,7 +7,7 @@ Alphabay Market has originally been operating from 2014 to 2017 with alpha02 and
 
 AlphaBay has been relaunched by DeSnake in August 2021 with a new design but with the same admin as before, and is once again plan to become the biggest darknet market in history.
 
-#What is AlphaBay?
+# What is AlphaBay?
 
 Per our original description
 
@@ -15,7 +15,7 @@ Per our original description
 
 Feel free to search us up on the Internet like Wikipedia or news websites for further information/history.
 
-#Who runs AlphaBay?
+# Who runs AlphaBay?
 
 AlphaBay (2021-now) has been put online by the AlphaBay Organization. Public figures of the current Administration include DeSnake who was the original other co-founder of AlphaBay and security administrator in the period 2014-2017. Now DeSnake is back to make AlphaBay great again.
 Is this the real AlphaBay (2014-2017)? Is the Administration the same?
@@ -35,7 +35,7 @@ That disregard made me make the decision that alpha02 deserves to be honoured be
 
 I want to dedicate this to alpha02 first and foremost we promised each other to go to the bitter end, here I am keeping my end of the deal. Second to all the previous AlphaBay users buyers and sellers alike who believed in us and support us throughout. I know all of you lost millions to seizure from Law Enforcement, this time around I have created a very well tested system called AlphaGuard which ensures even if seizures happen on all servers, users will be able to withdraw their funds, settle disputes and leave without a cent lost. Ideally the decentralized network would be up making any LE near impossible to actually disrupt operations. Third to all who keep silent and refuse to cooperate when LE asking, we saw who are real and who rolled over visible from the given sentences. Last I dedicate this to all people who finish something when they start it and keep their promises regardless of the situation.
 
-#How has AlphaBay improved since 2017?
+# How has AlphaBay improved since 2017?
 
 Many positive changes have been applied to AlphaBay and the way it operates from Administration to Staff to ScamWatch to how we organize and reward the community for helping the marketplace stay clean and free of bad vendors/products. A non-exclusive list of changes:
 
@@ -53,7 +53,7 @@ AlphaBay now accepts only Monero (XMR). We have moved away from Bitcoin because 
 
 Heavy focus on I2P rather than Tor network. In our public PGP signed message we have explained that Tor refuses to make changes to how it operates to eliminate attacks used not only to do DoS against hidden services but also used by LE to deanonymize those services and locate them (as they did with AlphaBay).
 
-#What is AlphaGuard?
+# What is AlphaGuard?
 
 AlphaGuard is a very well tested system which ensures even if seizures happen on all servers, users will be able to withdraw their funds, settle disputes and leave without a cent lost. The system has been in development for 2 years with countless tests and has had a standalone testing period of 1 year+ where it ran on its own. AlphaGuard is quite advanced piece of code which can run even without having access to any servers provided by Administration. It has what we call ‘hive-mind’ which enables it to detect if there are few servers left to launch itself from which then kickstarts several programs which can either (1) purchase more servers on its own by accessing its very own cryptocurrency wallets and leveraging pre-funded accounts for bypassing captcha, or (2) automatically exploit random servers, websites, gain automatic privilage escalation and ultimately be able to fulfill its core programming objectives while preserving encrypted all information.
 
@@ -65,7 +65,7 @@ We take our and the security of our customers as top priority and we will not al
 
 NOTICE: In the theoretical situation which we described above if the password you are entering is not working, a very likely solution will be that you changed your password before we made a backup or the system can not reach one of the latest backups so it reverts to an older one. Ensure you save at least your previous password to avoid such scenario. All passwords are encrypted in accordance to security language best practices and techniques, we rely on proven and tested methods plus crypto and do not roll our own mechanisms for obvious reasons.
 
-#How/Why is AlphaBay different?
+# How/Why is AlphaBay different?
 
 As per quote from DeSnake from the PGP signed message:
 
@@ -81,7 +81,7 @@ We strongly recommend using ADR because it is exactly the same steps a moderator
 
 AlphaBay boasts with unmatched reputation and good-standing within the darknet community. We have always been transparent, professional and fair to every party involved that is why we were the preferred place of business by hundreds of thousands of buyers and vendors. Unlike any other marketplaces we actually have a vision for the future which involves an improvement for the darknet market scene as a whole (Decentralized Market Network). By using our marketplace you help fund the development of the Decentralized Market Network.
 
-#What are the AlphaBay community functions?
+# What are the AlphaBay community functions?
 
 As per quote from DeSnake from the PGP signed message:
 
@@ -97,7 +97,7 @@ Referrals are available again. Perfect for those who have marketing skills/can s
 
 New marketplace categories like Services (programming, graphic design, remote administration, language translation etc.) and Automotive (hacking, parts, keys, exploits etc.) open the space for more opportunities for everyone involved.
 
-#What is AlphaBay Forum?
+# What is AlphaBay Forum?
 
 AlphaBay Forum is a place where all the community comes together to talk, discuss and share. If you want to grow in your business or wish to find a new business or an idea to make money, this is the place for you.
 
@@ -109,7 +109,7 @@ Private sub-forums are back, this time extending to communities like hacking, ca
 
 As the Forum grows, language-specific sub-communities apart from the Russian available one will be created. Sub-communities follow website rules and can add additional rules/operating structures by their respective ‘community manager’. The long-term vision for such communities from the start when VXcode was launched, was to be sustainable enough that in the event of a raid/seizure it can recover. Large sub-communities can even setup their own dedicated forums hosted by members or community managers while maintaining presence on AlphaBay Forum.
 
-#What vision going forward does AlphaBay have for itself?
+# What vision going forward does AlphaBay have for itself?
 
 As per quote from DeSnake from the PGP signed message:
 
@@ -122,7 +122,7 @@ Give birth and fund through parts of our profits a new generation of decentraliz
 
 Our end goal is to create a fully autonomous, decentralized and anonymous network which can support the creation of a marketplace ‘brand’ by anyone. We will create an ‘AlphaBay’ market on that network and migrate our community, giving users and vendors ability to buy, sell and trade in a decentralized manner. Potentially other marketplaces will join the network as it mitigates their requirements and risk of arrest without giving up management control (disputes, what is allowed to be sold, hiring of staff, setting fees, control of their profit wallets etc). Users will be safe to purchase from multiple markets all without the need of trusting any market with their cryptocurrency or registering for each one individually. Vendors will be able to sell on multiple markets seemlessly or even create their own shop while preserving their anonimity and security.
 
-#Why does AlphaBay recommend using I2P?
+# Why does AlphaBay recommend using I2P?
 
 We have a heavy focus on I2P because we believe it is the future and every DNM user should learn how to use it. To elaborate further, Tor has been neglecting much needed upgrades to how hidden services work for a very long time and it is not only me saying that. We know who discovered/weaponized (and got paid), who uses it and how deanonimization techniques are used what we do not know is why the Tor project has done little to nothing about it and continues to brush it off. It is clear by example no amount of funding given to the Tor project foundation will change that and the time to stop ‘hoping’ for them to make changes is over.
 
@@ -130,7 +130,7 @@ Looking at alternatives to Tor, I2P comes as a clear choice. It was designed for
 
 Learn how to use I2P and you will be able to find AlphaBay always online. Until bigger parts of the community move to I2P, we will have Tor mirrors up and running.
 
-#Why is AlphaBay currently a Monero-only marketplace? What is wrong with Bitcoin?
+# Why is AlphaBay currently a Monero-only marketplace? What is wrong with Bitcoin?
 
 DO NOT USE BITCOIN FOR PURCHASES YOU WISH TO BE SECRET.
 
