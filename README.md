@@ -1,4 +1,4 @@
-# AlphaBay
+# AlphaBay Link
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Alphabaylogo.png/220px-Alphabaylogo.png)
 ![Welcome](https://darknetone.com/wp-content/uploads/2021/08/alpha.png?v=1629671476)
 # Link
