@@ -1,8 +1,6 @@
-# AlphaBay Link
+# [AlphaBay Link](http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid/register?inv=bff61741d4e27e2c22d283b86b4ea7f1e1c722747e092a0003f10bd15300452e) 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Alphabaylogo.png/220px-Alphabaylogo.png)
 ![Welcome](https://darknetone.com/wp-content/uploads/2021/08/alpha.png?v=1629671476)
-# Link
-* [Alphabay](http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid/register?inv=bff61741d4e27e2c22d283b86b4ea7f1e1c722747e092a0003f10bd15300452e)
 
 # AlphaBay's Legacy
 Alphabay Market has originally been operating from 2014 to 2017 with alpha02 and DeSnake as admins and was the biggest darknet market in history. In July 2017 AlphaBay has suddenly gone offline and it was suspected as an exit scam, however, a few days after it has gone offline, it was revealed that AlphaBay has been seized and alpha02 aka Alexander Cazes was caught.
